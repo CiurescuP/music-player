@@ -1,2 +1,3 @@
 # music-player
-A music player with volume control
+This is the project with the most Javascript so far. I honestly don't think I could have finished it without my best friend, Google. After all, I am still a Junior Developer. Personally, I think this is a pretty complex project for a junior but I still made it. Even if I did help myself with Google, I still manipulated the code in my favour which made me happy because I can read and understand someone else's code. Also, I used Visual Studio Code's BlackBoxAI for the first time. I didn't integrate the code here, but I used it out of curiosity.  It's awesome.
+The music is just random, don't judge! If you don't enjoy it, you can always turn the volume down.. :)
